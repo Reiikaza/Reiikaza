@@ -15,7 +15,7 @@
 <div align="left">
   <a href="https://html.spec.whatwg.org" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="40" height="40""> </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40" height="40""> </a>
-  <a href="https://www.python.or/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220821155028%21Python-logo-notext.svg" width="40" height="40""> </a>
+  <a href="https://www.python.org" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220821155028%21Python-logo-notext.svg" width="40" height="40""> </a>
   <a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"> </a>
   <a href="https://www.javascript.com" rel="nofollow"> <img src="https://skillicons.dev/icons?i=js" width="40" height="40""> </a>
   <a href="https://www.typescriptlang.org" rel="nofollow"> <img src="https://skillicons.dev/icons?i=ts" width="40" height="40""> </a>
