@@ -4,7 +4,7 @@
 
 <p align="middle">My name is Liam, I'm currently an IT student and studying Front-End Development</p>
 
-<p align="middle"><a href="https://discord.com/users/700391228226928722" rel="nofollow"><img src="https://lanyard.kyrie25.dev/api/368399721494216706" style="max-width: 100%;"></a></p>
+<p align="middle"><a href="https://discord.com/users/700391228226928722" rel="nofollow"><img src="https://lanyard.kyrie25.dev/api/368399721494216706?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)" style="max-width: 100%;"></a></p>
 
 ###
 
